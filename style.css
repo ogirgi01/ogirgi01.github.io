@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,700);
+
+p {
+	color: black;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    margin-left: 6%;
+    margin-right: 50%;
+}
+
+h1 {
+	font-family: 'Merriweather', serif;
+	font-weight: 700;
+	margin-left: 4%;
+}
+
+h2 {
+	font-family: 'Merriweather', serif;
+	font-weight: 400;
+	margin-left: 6%;
+}
+
+body {
+	text-decoration: none;
+	background: url(prototype.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display: block;
+}
+
+#bio {
+	margin-top: 15%;
+}
+
+#works {
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+    font-size: 30px;
+}
+
+.Menu {
+	text-decoration: none;
+	background-color: black;
+	color: white;
+	font-size: 30px;
+	margin: 0px;
+}
+.MenuText {
+	background-color: black;
+	text-align: left;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 45px;
+	font-weight: 200;
+	display:inline;
+	text-decoration: none;
+}
+
+.Header1 {
+	font-family: 'Merriweather', serif;
+	font-weight: 700;
+	font-size: 200px;
+	margin-top: 10%;
+	margin-left: 8%;
+	opacity: 0.9;
+	color: black;
+}
+
+.Image {
+	float: left;
+	clear: both;
+	display:block;	
+	margin:10px;
+	padding: 40px;
+}
